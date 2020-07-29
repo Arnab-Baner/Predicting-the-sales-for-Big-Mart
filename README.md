@@ -1,6 +1,6 @@
 # Predicting the sales for Big Mart
 
-##Goal of the project
+## Goal of the project
 
 #### The goal of the project is to understand the factors impacting the sales of different products in different stores and build a predictive model to predict the sales.
 
